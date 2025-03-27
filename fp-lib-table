@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PIC18F27Q43-I-STX")(type "KiCad")(uri "${KIPRJMOD}/PIC18F27Q43-I-STX.pretty")(options "")(descr ""))
+)

@@ -258,23 +258,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at 6.35 8.89 0)
+			(property "Reference" "J1"
+				(at -1.778 12.192 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
 			(property "Value" "Conn_PIC_ICSP_ICD"
-				(at -8.89 -1.27 90)
+				(at 14.224 9.652 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 				(at 1.27 3.81 0)
 				(effects
 					(font
@@ -416,24 +418,6 @@
 						)
 					)
 					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 12.7 -5.08 180)
-					(length 2.54)
-					(name "PGM/LVP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3731,10 +3715,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2853ed6-feec-417c-ad03-4443711f6ee9")
-	)
-	(no_connect
-		(at 62.23 179.07)
-		(uuid "103485b7-192a-453b-830c-4902b76e7c34")
 	)
 	(no_connect
 		(at 74.93 29.21)
@@ -10253,9 +10233,6 @@
 		)
 		(pin "5"
 			(uuid "105121cd-6fb4-40b7-a669-b08f670e5ece")
-		)
-		(pin "6"
-			(uuid "e8df17c2-3351-491d-b801-a450fb47c7a2")
 		)
 		(pin "4"
 			(uuid "03378ab7-f6c0-4cb9-b74d-91bbee8dbd9e")

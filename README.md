@@ -1,8 +1,8 @@
-PIC18F27Q43 OLED Playboard
+PIC18F27Q84 OLED Playboard
 ==============================
 Nothing much to say, just for entertainment & satisfy myself for designing things in my head.
 
-![](https://github.com/thetrung/PIC18F27Q43_OLED_Board/blob/master/Images/View_Render.png)
+![](https://github.com/thetrung/PIC18F27Q84_OLED_Board/blob/master/Images/View_Render.png)
 
 ### Overview ::
 **MCU SPECS:** 64Mhz - 128KB Flash - 8KB SRAM - 1KB EEPROM. 
@@ -20,11 +20,11 @@ The board was made with intention to resemble tiny game consoles with proper inp
 - ICSP to Program with Microchip PICKIT 3/4/5.
 - OLED 128x32 Module support pins (SDA/SCK/VCC/GND).
   
-![](https://github.com/thetrung/PIC18F27Q43_OLED_Board/blob/master/Images/View_Front.png)
+![](https://github.com/thetrung/PIC18F27Q84_OLED_Board/blob/master/Images/View_Front.png)
 
 - The 3V Battery Holder can be installed on the back. Although I'm not sure if it can actually run since got nothing to test but any compatible coin-battery should work somehow (CR2032, LIR2032... but I aim for CR2450). Turn off any unused / unnecessary modules inside your PIC & outside the board to save power on battery. I only tested this dual power system via simulator mostly :
   
-![](https://github.com/thetrung/PIC18F27Q43_OLED_Board/blob/master/Images/View_Back.png)
+![](https://github.com/thetrung/PIC18F27Q84_OLED_Board/blob/master/Images/View_Back.png)
 
 ### Schematic ::
 

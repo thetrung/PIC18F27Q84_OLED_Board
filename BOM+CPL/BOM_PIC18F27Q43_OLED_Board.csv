@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R6,R9,R11,R19,R15,R20,R17,R10,R14,R2,R12,R18,R7,R16,R13,R8";"R_0805_2012Metric";16;"C17540";;;
+2;"R21,R4,R5,R1,R3";"R_0805_2012Metric";5;"C17414";;;
+3;"D2,D8,D1,D5,D11,D10,D16,D3,D9,D6,D15,D12,D14,D4,D13,D7";"LED_0805_2012Metric";16;"C2297";;;
+4;"SW2,SW3,SW4,SW1";"SW_PUSH_6mm_H5mm";4;"SW_Push";;;
+5;"U1";"VQFN28_STX_MCH";1;"PIC18F27Q43-I/STX";;;
+6;"J4";"USB_Mini-B_Tensility_54-00023_Vertical";1;"USB_B_Mini";;;
+7;"SW5";"SW_Slide_SPDT_Straight_CK_OS102011MS2Q";1;"SW_SPDT";;;
+8;"J2";"PinHeader_1x04_P2.54mm_Vertical";1;"OLED_Connector";;;
+9;"J1";"PinHeader_1x05_P2.54mm_Vertical";1;"Conn_PIC_ICSP_ICD";;;
+10;"LS1";"Buzzer_12x9.5RM7.6";1;"Speaker";;;
+11;"C1,C3";"C_1206_3216Metric";2;"C15008";;;
+12;"D18,D17";"D_0603_1608Metric";2;"C3758192";;;
+13;"Q1";"SOT-23";1;"C143946";;;
+14;"U2";"SOT-23-5";1;"C51118";;;
+15;"C2";"C_1206_3216Metric";1;"C24497";;;
+16;"BT1";"BatteryHolder_ComfortableElectronic_CH273-2450_1x2450";1;"V";;;

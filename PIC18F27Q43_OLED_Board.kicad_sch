@@ -6532,15 +6532,15 @@
 		(dnp no)
 		(uuid "14808998-b56c-4f83-91a7-a44d59f5ea77")
 		(property "Reference" "U1"
-			(at 228.6 24.13 0)
+			(at 247.65 22.098 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Value" "PIC18F27Q43-I/STX"
-			(at 228.6 26.67 0)
+		(property "Value" "C638193"
+			(at 244.094 24.892 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6558,16 +6558,15 @@
 			)
 		)
 		(property "Datasheet" "PIC18F27Q43-I/STX"
-			(at 200.66 36.83 0)
+			(at 239.014 27.178 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 					(italic yes)
 				)
-				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PIC18F27Q43-I/STX"
 			(at 200.66 34.29 0)
 			(effects
 				(font

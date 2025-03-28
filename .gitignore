@@ -2,3 +2,4 @@
 *.lck
 PIC18F27Q43_OLED_Board-backups
 \#auto_saved_files\#
+.DS_Store

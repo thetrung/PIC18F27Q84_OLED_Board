@@ -1,4 +1,4 @@
-24737466907990595
+24739210062597620
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -69800,6 +69800,13 @@ PIC18F27Q43-I-STX
 VQFN28_STX_MCH
 
 PIC18F27Q43-I/STX 
+0
+29
+29
+PIC18F27Q84-I-SN
+VQFN28_5N_MCH-L
+
+PIC18F27Q84-I/5N 
 0
 29
 29

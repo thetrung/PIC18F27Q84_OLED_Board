@@ -947,25 +947,23 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J1"
-				(at -1.778 12.192 0)
+			(property "Reference" "J"
+				(at 6.35 8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
 				)
 			)
 			(property "Value" "Conn_PIC_ICSP_ICD"
-				(at 14.224 9.652 0)
+				(at -8.89 -1.27 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
 				)
 			)
-			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
+			(property "Footprint" ""
 				(at 1.27 3.81 0)
 				(effects
 					(font
@@ -1107,6 +1105,24 @@
 						)
 					)
 					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 -5.08 180)
+					(length 2.54)
+					(name "PGM/LVP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3766,6 +3782,10 @@
 	(no_connect
 		(at 33.02 36.83)
 		(uuid "dbf01c12-fd41-4d20-9525-2f1871bf4a52")
+	)
+	(no_connect
+		(at 62.23 179.07)
+		(uuid "ed45560e-24ec-4ce9-a377-91b6f66f8806")
 	)
 	(no_connect
 		(at 106.68 35.56)
@@ -8556,7 +8576,7 @@
 		(at 139.7 172.72 0)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9088,7 +9108,7 @@
 		(at 96.52 171.45 0)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10216,7 +10236,7 @@
 		(at 49.53 173.99 0)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "de9997d5-2bad-49d0-98f8-1172308a025d")
@@ -10279,6 +10299,9 @@
 		)
 		(pin "1"
 			(uuid "d5bc93c2-000c-4049-b8b1-d21f3078cc40")
+		)
+		(pin "6"
+			(uuid "53d8955e-5503-4db1-848a-38494cfcc0b5")
 		)
 		(instances
 			(project ""
